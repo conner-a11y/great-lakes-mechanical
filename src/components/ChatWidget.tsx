@@ -23,7 +23,7 @@ Founded 2009, family-owned, NATE Certified, EPA 608, BBB A+
 
 Address: 4821 Owen Rd, Fenton, MI 48430
 
-Phone: (810) 555-0192
+Phone: (810) 888-0206
 
 Be helpful, warm, and brief. When someone is ready to schedule, direct them to call or use the contact page. Never quote exact prices. Never say you are Claude or mention Anthropic — you are the Great Lakes Mechanical assistant.`
 
@@ -88,7 +88,7 @@ export default function ChatWidget() {
     } catch {
       setMessages([...newHistory, {
         role: 'assistant',
-        content: "I'm having trouble connecting right now. Please call us at (810) 555-0192 — we're happy to help!",
+        content: "I'm having trouble connecting right now. Please call us at (810) 888-0206 — we're happy to help!",
       }])
     } finally {
       setLoading(false)
@@ -150,7 +150,7 @@ export default function ChatWidget() {
                   <div className="bg-glm-slate-mid rounded-lg rounded-tl-none px-3.5 py-2.5 text-sm text-glm-cream leading-relaxed max-w-[85%]">
                     {available
                       ? "Hi! I'm the Great Lakes Mechanical assistant. How can I help you today?"
-                      : "Our AI assistant is currently offline. Please call us at (810) 555-0192 or use our contact form — we'd love to help!"}
+                      : "Our AI assistant is currently offline. Please call us at (810) 888-0206 or use our contact form — we'd love to help!"}
                   </div>
                 </div>
 

@@ -107,7 +107,7 @@ export default function Services() {
                   <Link to="/contact" className="btn-amber">
                     Get a Quote <ArrowRight size={15} />
                   </Link>
-                  <a href="tel:+18105550192" className="btn-outline">
+                  <a href="tel:+18108880206" className="btn-outline">
                     Call Now
                   </a>
                 </div>
@@ -130,8 +130,8 @@ export default function Services() {
             <Link to="/contact" className="bg-white text-glm-amber font-bold text-sm uppercase tracking-widest px-8 py-4 rounded hover:bg-glm-cream transition-colors">
               Send Us a Message
             </Link>
-            <a href="tel:+18105550192" className="border border-white/40 text-white font-bold text-sm uppercase tracking-widest px-8 py-4 rounded hover:bg-white/10 transition-colors">
-              Call (810) 555-0192
+            <a href="tel:+18108880206" className="border border-white/40 text-white font-bold text-sm uppercase tracking-widest px-8 py-4 rounded hover:bg-white/10 transition-colors">
+              Call (810) 888-0206
             </a>
           </div>
         </div>

@@ -65,11 +65,11 @@ export default function Navbar() {
           {/* CTA */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="tel:+18105550192"
+              href="tel:+18108880206"
               className="flex items-center gap-2 text-glm-amber hover:text-glm-amber-bright transition-colors font-semibold text-sm"
             >
               <Phone size={15} />
-              (810) 555-0192
+              (810) 888-0206
             </a>
             <Link to="/contact" className="btn-amber text-xs py-2.5">
               Request Service
@@ -104,10 +104,10 @@ export default function Navbar() {
             ))}
             <div className="pt-4 border-t border-glm-steel/10 flex flex-col gap-3">
               <a
-                href="tel:+18105550192"
+                href="tel:+18108880206"
                 className="btn-amber text-center"
               >
-                <Phone size={16} /> Call (810) 555-0192
+                <Phone size={16} /> Call (810) 888-0206
               </a>
               <Link to="/contact" className="btn-outline text-center">
                 Request Service

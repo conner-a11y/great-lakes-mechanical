@@ -34,8 +34,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="text-glm-steel text-xs uppercase tracking-wider font-semibold mb-1">Phone</p>
-                      <a href="tel:+18105550192" className="text-glm-cream font-semibold hover:text-glm-amber transition-colors">
-                        (810) 555-0192
+                      <a href="tel:+18108880206" className="text-glm-cream font-semibold hover:text-glm-amber transition-colors">
+                        (810) 888-0206
                       </a>
                     </div>
                   </li>
@@ -88,7 +88,7 @@ export default function Contact() {
                 <p className="font-display font-black text-white text-2xl uppercase mb-2">HVAC Emergency?</p>
                 <p className="text-white/80 text-sm mb-4">We answer 24/7 — no voicemail.</p>
                 <a
-                  href="tel:+18105550192"
+                  href="tel:+18108880206"
                   className="bg-white text-glm-amber font-bold text-sm uppercase tracking-widest px-5 py-3 rounded hover:bg-glm-cream transition-colors w-full flex items-center justify-center gap-2"
                 >
                   <Phone size={15} /> Call Now

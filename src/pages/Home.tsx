@@ -80,8 +80,8 @@ export default function Home() {
               <Link to="/contact" className="btn-amber text-base px-8 py-4">
                 Request Service <ArrowRight size={17} />
               </Link>
-              <a href="tel:+18105550192" className="btn-outline text-base px-8 py-4">
-                <Phone size={17} /> Call (810) 555-0192
+              <a href="tel:+18108880206" className="btn-outline text-base px-8 py-4">
+                <Phone size={17} /> Call (810) 888-0206
               </a>
             </div>
           </div>
@@ -228,10 +228,10 @@ export default function Home() {
             </div>
           </div>
           <a
-            href="tel:+18105550192"
+            href="tel:+18108880206"
             className="bg-white text-glm-amber font-display font-black text-xl uppercase px-10 py-4 rounded hover:bg-glm-cream transition-colors tracking-wide whitespace-nowrap"
           >
-            Call (810) 555-0192
+            Call (810) 888-0206
           </a>
         </div>
       </section>

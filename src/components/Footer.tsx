@@ -11,10 +11,10 @@ export default function Footer() {
             HEATING OR AC EMERGENCY? WE ANSWER 24/7
           </p>
           <a
-            href="tel:+18105550192"
+            href="tel:+18108880206"
             className="bg-white text-glm-amber font-bold text-sm uppercase tracking-widest px-5 py-2 rounded hover:bg-glm-cream transition-colors whitespace-nowrap"
           >
-            Call Now: (810) 555-0192
+            Call Now: (810) 888-0206
           </a>
         </div>
       </div>
@@ -73,7 +73,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2 text-glm-steel">
                 <Phone size={14} className="mt-0.5 text-glm-amber shrink-0" />
-                <a href="tel:+18105550192" className="hover:text-glm-amber transition-colors">(810) 555-0192</a>
+                <a href="tel:+18108880206" className="hover:text-glm-amber transition-colors">(810) 888-0206</a>
               </li>
               <li className="flex items-start gap-2 text-glm-steel">
                 <MapPin size={14} className="mt-0.5 text-glm-amber shrink-0" />
